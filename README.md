@@ -2,6 +2,8 @@
 
 Fine-tuning pipeline for translating Latvian text into LSL glosses using a vocabulary-pruned mT5-small model.
 
+### Read the Handbook here: https://lucyferyx.github.io/LSL-handbook
+
 ## Project structure
 
 ```
